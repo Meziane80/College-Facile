@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>6ème - CollègeFacile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>6ème - Cours et Révisions</h1>
+        <p>Trouve ici tous les cours pour la 6ème.</p>
+    </header>
+
+    <section>
+        <h2>Cours</h2>
+        <ul>
+            <li><a href="maths_6eme.html">Maths</a></li>
+            <li><a href="francais_6eme.html">Français</a></li>
+            <li><a href="histoire_geo_6eme.html">Histoire-Géo</a></li>
+            <li><a href="svt_6eme.html">SVT</a></li>
+            <li><a href="physique_6eme.html">Physique-Chimie</a></li>
+            <li><a href="anglais_6eme.html">Anglais</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 CollègeFacile - Tous droits réservés</p>
+    </footer>
+</body>
+</html>
