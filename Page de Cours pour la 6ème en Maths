@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -16,20 +15,28 @@
     <section>
         <h2>Cours</h2>
         <h3>Les Nombres Entiers</h3>
-        <p>Les nombres entiers comprennent les nombres positifs et négatifs ainsi que le zéro. Exemples : -5, 0, 7.</p>
+        <p>Les nombres entiers sont composés des nombres positifs, négatifs et du zéro. Exemple : -5, 0, 7.</p>
 
         <h3>Les Additions et Soustractions</h3>
         <p>Les additions et soustractions sont les opérations de base pour travailler avec des nombres. Exemple : 3 + 2 = 5 et 8 - 3 = 5.</p>
 
-        <ul>
-            <li><a href="cours_maths_6eme_nombres.pdf" download>Télécharger le cours sur les Nombres Entiers (PDF)</a></li>
-            <li><a href="cours_maths_6eme_operations.pdf" download>Télécharger le cours sur les opérations (PDF)</a></li>
-        </ul>
+        <h3>Les Multiplications</h3>
+        <p>Les multiplications sont une répétition de l'addition. Exemple : 4 × 3 = 12.</p>
+
+        <h3>Les Divisions</h3>
+        <p>Les divisions sont l'inverse des multiplications. Exemple : 12 ÷ 3 = 4.</p>
+
+        <h3>Les Fractions</h3>
+        <p>Les fractions permettent de diviser un nombre en parties égales. Exemple : 1/2 représente la moitié.</p>
+
+        <h3>Les Décimaux</h3>
+        <p>Les nombres décimaux permettent d'exprimer des parties d'un tout, comme 1.5 ou 3.14.</p>
 
         <h2>Exercices</h2>
         <ul>
             <li><a href="exercice_maths_6eme1.html">Exercice 1 : Addition et Soustraction de Nombres Entiers</a></li>
-            <li><a href="exercice_maths_6eme2.html">Exercice 2 : Résolution de Problèmes</a></li>
+            <li><a href="exercice_maths_6eme2.html">Exercice 2 : Multiplications et Divisions</a></li>
+            <li><a href="exercice_maths_6eme3.html">Exercice 3 : Fractions et Décimaux</a></li>
         </ul>
 
         <h2>Fiches de Révision</h2>
