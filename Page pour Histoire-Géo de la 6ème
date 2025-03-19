@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Histoire-Géo 6ème - CollègeFacile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Histoire-Géo - 6ème</h1>
+        <p>Cours, exercices et révisions pour la 6ème en Histoire et Géographie</p>
+    </header>
+
+    <section>
+        <h2>Cours</h2>
+        <h3>L'Antiquité</h3>
+        <p>L'Antiquité couvre la période de l'histoire de l'Homme allant de l'invention de l'écriture (vers 3500 av. J.-C.) jusqu'à la chute de l'Empire romain d'Occident en 476 après J.-C.</p>
+
+        <h3>Les Civilisations de l'Antiquité</h3>
+        <p>Les civilisations mésopotamienne, égyptienne, grecque et romaine sont des exemples importants de l'Antiquité. Chaque civilisation avait sa propre organisation politique, sociale et culturelle.</p>
+
+        <h3>La Géographie de la France et du Monde</h3>
+        <p>La géographie permet de comprendre les espaces naturels et humains. Il est important de connaître les grands repères géographiques du monde (continents, mers, océans) et de la France (régions, montagnes, fleuves).</p>
+
+        <h2>Exercices</h2>
+        <ul>
+            <li><a href="exercice_histoire_geo_6eme1.html">Exercice 1 : Civilisations de l'Antiquité</a></li>
+            <li><a href="exercice_histoire_geo_6eme2.html">Exercice 2 : La Géographie de la France</a></li>
+        </ul>
+
+        <h2>Fiches de Révision</h2>
+        <ul>
+            <li><a href="fiche_revision_histoire_geo_6eme.pdf" download>Télécharger la fiche de révision - Histoire-Géo 6ème</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 CollègeFacile - Tous droits réservés</p>
+    </footer>
+</body>
+</html>
