@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Physique-Chimie 6ème - CollègeFacile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Physique-Chimie - 6ème</h1>
+        <p>Cours, exercices et révisions pour la 6ème en Physique et Chimie</p>
+    </header>
+
+    <section>
+        <h2>Cours</h2>
+        <h3>Les États de la Matière</h3>
+        <p>La matière peut exister sous trois états : solide, liquide et gazeux. Exemple : l'eau peut être sous forme de glace (solide), d'eau (liquide) ou de vapeur (gazeuse).</p>
+
+        <h3>Les Mélanges</h3>
+        <p>Les mélanges sont formés par l'association de plusieurs substances. Exemple : l'air est un mélange de gaz.</p>
+
+        <h3>Les Réactions Chimiques</h3>
+        <p>Les réactions chimiques transforment les substances en de nouvelles. Exemple : la combustion d'une bougie, où le carbone et l'oxygène se transforment en dioxyde de carbone et en eau.</p>
+
+        <h2>Exercices</h2>
+        <ul>
+            <li><a href="exercice_physique_6eme1.html">Exercice 1 : Identifier les États de la Matière</a></li>
+            <li><a href="exercice_physique_6eme2.html">Exercice 2 : Mélanges et Séparation</a></li>
+        </ul>
+
+        <h2>Fiches de Révision</h2>
+        <ul>
+            <li><a href="fiche_revision_physique_6eme.pdf" download>Télécharger la fiche de révision - Physique-Chimie 6ème</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 CollègeFacile - Tous droits réservés</p>
+    </footer>
+</body>
+</html>
