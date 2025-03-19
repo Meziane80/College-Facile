@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -15,25 +16,25 @@
     <section>
         <h2>Cours</h2>
         <h3>Les Nombres Entiers</h3>
-        <p>Les nombres entiers sont les nombres naturels (0, 1, 2, 3, ...) ainsi que leurs opposés négatifs (-1, -2, -3, ...). Ils sont utilisés pour compter, mesurer et ordonner. Les entiers se notent généralement : …, -3, -2, -1, 0, 1, 2, 3, …</p>
-        
-        <h3>Les Fractions</h3>
-        <p>Une fraction représente une partie d'un tout. Elle se compose d'un numérateur et d'un dénominateur, par exemple : 3/4. Le numérateur (3) indique combien de parts sont prises, et le dénominateur (4) indique en combien de parts égales le tout est divisé.</p>
+        <p>Les nombres entiers comprennent les nombres positifs et négatifs ainsi que le zéro. Exemples : -5, 0, 7.</p>
+
+        <h3>Les Additions et Soustractions</h3>
+        <p>Les additions et soustractions sont les opérations de base pour travailler avec des nombres. Exemple : 3 + 2 = 5 et 8 - 3 = 5.</p>
 
         <ul>
-            <li><a href="cours_maths_6eme.pdf" download>Télécharger le cours sur les nombres entiers (PDF)</a></li>
-            <li><a href="cours_maths_6eme_fractions.pdf" download>Télécharger le cours sur les fractions (PDF)</a></li>
+            <li><a href="cours_maths_6eme_nombres.pdf" download>Télécharger le cours sur les Nombres Entiers (PDF)</a></li>
+            <li><a href="cours_maths_6eme_operations.pdf" download>Télécharger le cours sur les opérations (PDF)</a></li>
         </ul>
 
         <h2>Exercices</h2>
         <ul>
-            <li><a href="exercice_maths_6eme1.html">Exercice 1 : Opérations sur les entiers</a></li>
-            <li><a href="exercice_maths_6eme2.html">Exercice 2 : Fractions</a></li>
+            <li><a href="exercice_maths_6eme1.html">Exercice 1 : Addition et Soustraction de Nombres Entiers</a></li>
+            <li><a href="exercice_maths_6eme2.html">Exercice 2 : Résolution de Problèmes</a></li>
         </ul>
 
         <h2>Fiches de Révision</h2>
         <ul>
-            <li><a href="fiche_revision_maths_6eme.pdf" download>Télécharger la fiche de révision - Maths</a></li>
+            <li><a href="fiche_revision_maths_6eme.pdf" download>Télécharger la fiche de révision - Maths 6ème</a></li>
         </ul>
     </section>
 
