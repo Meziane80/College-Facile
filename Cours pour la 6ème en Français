@@ -14,26 +14,27 @@
 
     <section>
         <h2>Cours</h2>
-        <h3>Les Adjectifs</h3>
-        <p>Un adjectif est un mot qui sert à décrire un nom. Exemple : "un chien <strong>gentil</strong>". Il s'accorde en genre et en nombre avec le nom qu'il qualifie. Il peut être placé avant ou après le nom.</p>
+        <h3>Les Noms et les Adjectifs</h3>
+        <p>Les noms désignent des personnes, des objets ou des lieux. Exemple : "chat", "maison". Les adjectifs qualifient ces noms. Exemple : "chat noir", "maison grande".</p>
 
         <h3>Les Verbes</h3>
-        <p>Le verbe est un mot qui exprime une action, un état ou un changement d’état. Exemple : "Il <strong>court</strong> vite" ou "Elle <strong>est</strong> heureuse".</p>
+        <p>Le verbe exprime une action ou un état. Exemple : "manger", "être".</p>
 
-        <ul>
-            <li><a href="cours_francais_6eme.pdf" download>Télécharger le cours sur les adjectifs (PDF)</a></li>
-            <li><a href="cours_francais_6eme_verbes.pdf" download>Télécharger le cours sur les verbes (PDF)</a></li>
-        </ul>
+        <h3>Les Pronoms</h3>
+        <p>Les pronoms remplacent les noms pour éviter les répétitions. Exemple : "Il mange", "Elle dort".</p>
+
+        <h3>Les Temps de Verbe</h3>
+        <p>Il existe plusieurs temps verbaux, tels que le présent, le passé composé et le futur. Exemple : "Je mange" (présent), "J'ai mangé" (passé composé).</p>
 
         <h2>Exercices</h2>
         <ul>
-            <li><a href="exercice_francais_6eme1.html">Exercice 1 : Identifier les adjectifs</a></li>
-            <li><a href="exercice_francais_6eme2.html">Exercice 2 : Conjuguer les verbes</a></li>
+            <li><a href="exercice_francais_6eme1.html">Exercice 1 : Identifier les Noms et Adjectifs</a></li>
+            <li><a href="exercice_francais_6eme2.html">Exercice 2 : Conjuguer les Verbes</a></li>
         </ul>
 
         <h2>Fiches de Révision</h2>
         <ul>
-            <li><a href="fiche_revision_francais_6eme.pdf" download>Télécharger la fiche de révision - Français</a></li>
+            <li><a href="fiche_revision_francais_6eme.pdf" download>Télécharger la fiche de révision - Français 6ème</a></li>
         </ul>
     </section>
 
