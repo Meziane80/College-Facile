@@ -3,23 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CollègeFacile - Cours de la 6ème à la 3ème</title>
+    <title>CollègeFacile - Cours et Révisions</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Bienvenue sur CollègeFacile</h1>
-        <p>Votre site de cours et de révisions du collège, de la 6ᵉ à la 3ᵉ !</p>
+        <h1>CollègeFacile - Cours et Révisions</h1>
+        <p>Retrouvez ici tous les cours de la 6ᵉ à la 3ᵉ pour réviser.</p>
     </header>
 
-    <nav>
+    <section>
+        <h2>Classes</h2>
         <ul>
             <li><a href="6eme.html">6ème</a></li>
             <li><a href="5eme.html">5ème</a></li>
             <li><a href="4eme.html">4ème</a></li>
             <li><a href="3eme.html">3ème</a></li>
         </ul>
-    </nav>
+    </section>
 
     <footer>
         <p>&copy; 2025 CollègeFacile - Tous droits réservés</p>
