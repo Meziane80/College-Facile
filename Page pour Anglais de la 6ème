@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anglais 6ème - CollègeFacile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Anglais - 6ème</h1>
+        <p>Cours, exercices et révisions pour la 6ème en Anglais</p>
+    </header>
+
+    <section>
+        <h2>Cours</h2>
+        <h3>Les Salutations</h3>
+        <p>Les expressions de base en anglais : "Hello" (Bonjour), "How are you?" (Comment ça va ?), "Goodbye" (Au revoir).</p>
+
+        <h3>Les Nombres en Anglais</h3>
+        <p>Les nombres en anglais sont essentiels pour compter et faire des calculs simples. Exemple : "one" (un), "two" (deux), "three" (trois).</p>
+
+        <h3>Les Couleurs</h3>
+        <p>Les couleurs sont également importantes en anglais : "red" (rouge), "blue" (bleu), "green" (vert).</p>
+
+        <h2>Exercices</h2>
+        <ul>
+            <li><a href="exercice_anglais_6eme1.html">Exercice 1 : Salutations en Anglais</a></li>
+            <li><a href="exercice_anglais_6eme2.html">Exercice 2 : Apprendre les Nombres</a></li>
+        </ul>
+
+        <h2>Fiches de Révision</h2>
+        <ul>
+            <li><a href="fiche_revision_anglais_6eme.pdf" download>Télécharger la fiche de révision - Anglais 6ème</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 CollègeFacile - Tous droits réservés</p>
+    </footer>
+</body>
+</html>
