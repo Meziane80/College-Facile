@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maths 6ème - CollègeFacile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Maths - 6ème</h1>
+        <p>Cours, exercices et révisions pour la 6ème en Maths</p>
+    </header>
+
+    <section>
+        <h2>Cours</h2>
+        <h3>Les Nombres Entiers</h3>
+        <p>Les nombres entiers sont les nombres naturels (0, 1, 2, 3, ...) ainsi que leurs opposés négatifs (-1, -2, -3, ...). Ils sont utilisés pour compter, mesurer et ordonner. Les entiers se notent généralement : …, -3, -2, -1, 0, 1, 2, 3, …</p>
+        
+        <h3>Les Fractions</h3>
+        <p>Une fraction représente une partie d'un tout. Elle se compose d'un numérateur et d'un dénominateur, par exemple : 3/4. Le numérateur (3) indique combien de parts sont prises, et le dénominateur (4) indique en combien de parts égales le tout est divisé.</p>
+
+        <ul>
+            <li><a href="cours_maths_6eme.pdf" download>Télécharger le cours sur les nombres entiers (PDF)</a></li>
+            <li><a href="cours_maths_6eme_fractions.pdf" download>Télécharger le cours sur les fractions (PDF)</a></li>
+        </ul>
+
+        <h2>Exercices</h2>
+        <ul>
+            <li><a href="exercice_maths_6eme1.html">Exercice 1 : Opérations sur les entiers</a></li>
+            <li><a href="exercice_maths_6eme2.html">Exercice 2 : Fractions</a></li>
+        </ul>
+
+        <h2>Fiches de Révision</h2>
+        <ul>
+            <li><a href="fiche_revision_maths_6eme.pdf" download>Télécharger la fiche de révision - Maths</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 CollègeFacile - Tous droits réservés</p>
+    </footer>
+</body>
+</html>
