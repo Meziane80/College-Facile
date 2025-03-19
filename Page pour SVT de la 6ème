@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SVT 6ème - CollègeFacile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>SVT - 6ème</h1>
+        <p>Cours, exercices et révisions pour la 6ème en SVT</p>
+    </header>
+
+    <section>
+        <h2>Cours</h2>
+        <h3>Le Corps Humain</h3>
+        <p>Le corps humain est composé de plusieurs systèmes (circulatoire, respiratoire, digestif...) qui travaillent ensemble pour assurer les fonctions vitales.</p>
+
+        <h3>Les Plantes et la Photosynthèse</h3>
+        <p>Les plantes produisent leur propre nourriture grâce à la photosynthèse, un processus où elles utilisent la lumière, le dioxyde de carbone et l'eau pour créer des glucides.</p>
+
+        <h3>L'Environnement</h3>
+        <p>L'environnement comprend tous les éléments naturels et artificiels autour de nous, comme l'air, l'eau, les sols et les êtres vivants.</p>
+
+        <h2>Exercices</h2>
+        <ul>
+            <li><a href="exercice_svt_6eme1.html">Exercice 1 : Les Systèmes du Corps Humain</a></li>
+            <li><a href="exercice_svt_6eme2.html">Exercice 2 : La Photosynthèse</a></li>
+        </ul>
+
+        <h2>Fiches de Révision</h2>
+        <ul>
+            <li><a href="fiche_revision_svt_6eme.pdf" download>Télécharger la fiche de révision - SVT 6ème</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 CollègeFacile - Tous droits réservés</p>
+    </footer>
+</body>
+</html>
